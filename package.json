@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-eva-ds01",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "description": "DS-01 求索：给 DeepSeek Harness 桌面版换上 EVA 风格的开机动画和工作状态（状态栏、动效、配色）。非官方同人作品。",
   "type": "module",
