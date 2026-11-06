@@ -1,0 +1,4 @@
+# DS-01 求索 · EVA 风格皮肤：把本插件加进 profile 的插件树
+- insert:
+    - id: eva-ds01
+      name: 'dsh-plugin-eva-ds01'

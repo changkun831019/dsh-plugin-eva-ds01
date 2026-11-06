@@ -1,0 +1,33 @@
+DS-01 求索 · dsh-plugin-eva-ds01
+
+一、代码（lib/ 里的脚本、样式）
+
+MIT License
+
+Copyright (c) 2026 不正常老师
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+二、图片和配乐（以 data URL 内嵌在 lib/client.js 里的机体、驾驶员、发射通道图片和「出击」配乐）
+
+Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）
+https://creativecommons.org/licenses/by-nc/4.0/
+可以非商用地转载、修改，要注明出处「DS-01 求索 · 不正常老师」。
+
+三、本作品是非官方同人作品，和 DeepSeek、《新世纪福音战士》的版权方都没有关系。
